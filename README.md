@@ -34,6 +34,7 @@ I'm skilled in:<br/>
 ✅ Backend: PHP(Laravel, Codeigniter), Node.JS(Express, sailsjs, nestjs, Adonis.js).<br/>  
 ✅ Code repository management: Github, Gitlab, BitBucket.<br/>  
 
+I am expert at Front-End and backend technologies as well.
 <table><tr><td valign="top" width="33%">
 
 
