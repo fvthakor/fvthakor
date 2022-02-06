@@ -106,16 +106,6 @@ I am a full stack web developer with 4 years experience developing and deploying
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=fvthakor&&style=flat-square" align="center" />
 </div>  
