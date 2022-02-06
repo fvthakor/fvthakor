@@ -22,6 +22,18 @@ I am a full stack web developer with 4 years experience developing and deploying
 
 
 ## My Skill Set  
+
+I'm skilled in:
+✅ JavaScript(ES5, ES6+).
+✅ Vue.js, Angular, Reactjs.
+✅ Nuxt.JS,
+✅ HTML, preprocessors: HTML5, blade.
+✅ CSS preprocessors: CSS3, CSS4, Sass, Less, Stylus, CSS-in-JS.
+✅ CSS, JS Frameworks: Material UI, Bootstrap, Foundation, Semantic UI, tailwind css.
+✅ Databases: mySQL, MongoDB, Firebase, Postgres.
+✅ Backend: PHP(Laravel, Codeigniter), Node.JS(Express, sailsjs, nestjs, Adonis.js).
+✅ Code repository management: Github, Gitlab, BitBucket.
+
 <table><tr><td valign="top" width="33%">
 
 
