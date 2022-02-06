@@ -33,7 +33,13 @@ I'm skilled in:<br/>
 ✅ Databases: mySQL, MongoDB, Firebase, Postgres.<br/>  
 ✅ Backend: PHP(Laravel, Codeigniter), Node.JS(Express, sailsjs, nestjs, Adonis.js).<br/>  
 ✅ Code repository management: Github, Gitlab, BitBucket.<br/>  
-
+✅ VOIP API (Twilio, plivo, signalwire, telynx) 
+  - Programmatically send and receive text messages
+  - Integrate voice calling into your applications
+  - Engage your customers via picture, audio, and video message
+  - sms and calling broadcast
+  - IVR calling, Conforence calling, call recording and call forwarding
+  - whisper, barge and listening<br/>  
 I am expert at Front-End and backend technologies as well.
 <table><tr><td valign="top" width="33%">
 
