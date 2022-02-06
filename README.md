@@ -32,10 +32,11 @@ I'm skilled in:<br/>
 ✅ CSS, JS Frameworks: Material UI, Bootstrap, Foundation, Semantic UI, tailwind css.<br/>  
 ✅ Databases: mySQL, MongoDB, Firebase, Postgres.<br/>  
 ✅ Backend: PHP(Laravel, Codeigniter), Node.JS(Express, sailsjs, nestjs, Adonis.js).<br/>  
-✅ Code repository management: Github, Gitlab, BitBucket.<br/>  
+✅ Code repository management: Github, Gitlab, BitBucket.<br/> 
+✅ Real time chat using socket.io <br/> 
 ✅ VOIP API (Twilio, plivo, signalwire, telynx) 
-  - Programmatically send and receive text messages
-  - Integrate voice calling into your applications
+  - send and receive text messages(Chat Inbox)
+  - voice calling into your applications(Web phone)
   - Engage your customers via picture, audio, and video message
   - sms and calling broadcast
   - IVR calling, Conforence calling, call recording and call forwarding
